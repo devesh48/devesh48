@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devesh
 - 👀 I’m interested in writing code and creating Errors.
-- 🌱 I’m currently learning Full stack Development.
+- 🌱 I’m a Full stack Developer.
 - 📫 you can reach out on "updahyay.dev48@gmail.com"
 
 <!---
